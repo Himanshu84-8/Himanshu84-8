@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Himanshu as coder
+- 👀 I’m interested in creating fully working website on the internet .
+- 🌱 I’m currently learning MERN .
+- 💞️ I’m looking to collaborate on fully working website on the internet.
+- 📫 How to reach me through e-mail. 
+- 😄 Pronouns: Devil 👿 
+- ⚡ Fun fact: I am gamer, and i have so much fun facts about school life.
+- 😇 I achieved. Html , Css , JavaScript, c++ , c , java , python.
+- 
